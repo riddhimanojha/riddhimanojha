@@ -4,6 +4,7 @@
 -->
 
 <a id="init"></a>
+
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/header-static.png">
   <img src="assets/header.gif" width="100%" alt="Riddhiman Ojha. R/O personal operating system: a boot log scrolls, a prompt types 'ship --from concept --to working-system', an acid-green cursor blinks after the name, and an orrery of current projects turns beside it: Yukti, Orion, SkillVerse, Dilli Transit, SIMDU and Mixtape.">
@@ -35,6 +36,7 @@ I study Computer Science at the University of Manchester. I build software, test
 <br>
 
 <a id="status"></a>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/strip-status-light.svg">
   <img src="assets/strip-status-dark.svg" width="100%" alt="§01 System status">
@@ -45,6 +47,7 @@ I study Computer Science at the University of Manchester. I build software, test
 <br>
 
 <a id="building"></a>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/strip-building-light.svg">
   <img src="assets/strip-building-dark.svg" width="100%" alt="§02 Now building">
@@ -59,6 +62,7 @@ I study Computer Science at the University of Manchester. I build software, test
 <br>
 
 <a id="experiments"></a>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/strip-experiments-light.svg">
   <img src="assets/strip-experiments-dark.svg" width="100%" alt="§03 Selected experiments">
@@ -110,6 +114,7 @@ simdu-app/    The SIMDU companion itself: an Expo / React Native MCDU
 <br>
 
 <a id="stack"></a>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/strip-stack-light.svg">
   <img src="assets/strip-stack-dark.svg" width="100%" alt="§04 Technical stack">
@@ -120,6 +125,7 @@ simdu-app/    The SIMDU companion itself: an Expo / React Native MCDU
 <br>
 
 <a id="log"></a>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/strip-log-light.svg">
   <img src="assets/strip-log-dark.svg" width="100%" alt="§05 Operator notes">
@@ -157,6 +163,7 @@ riddhiman@r/o:~$ cat ~/.principles
 <br>
 
 <a id="eof"></a>
+
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/eof-static.png">
   <img src="assets/eof.gif" width="100%" alt="End of file. riddhiman@r/o:~$ logout. Session closed. Thanks for reading all the way down.">
