@@ -48,7 +48,7 @@
 
 ## 03 / TOOLKIT
 
-<TypeScript> · JavaScript · Python · Java  
+TypeScript · JavaScript · Python · Java  
 React · Next.js · Tailwind CSS · SQL  
 Git · Linux · Prisma · PostgreSQL
 
