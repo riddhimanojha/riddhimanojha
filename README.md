@@ -73,8 +73,8 @@ I study Computer Science at the University of Manchester. I build software, test
 
 <br>
 
-<a href="https://orion-lake-tau.vercel.app"><img src="assets/exp-orion.svg" width="100%" alt="E/02 Orion: application security as a constellation. Findings become stars, file dependencies become lines, and each star opens onto the vulnerable code and a fix. React, TypeScript, three.js, Supabase."></a>
-<sub>Started at a hackathon, where I built the frontend. Now being rebuilt properly.&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://orion-lake-tau.vercel.app"><b>LIVE&nbsp;↗</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;source private</sub>
+<img src="assets/exp-orion.svg" width="100%" alt="E/02 Orion: application security as a constellation. Findings become stars, file dependencies become lines, and each star opens onto the vulnerable code and a fix. React, TypeScript, three.js, Supabase.">
+<sub>Started at a hackathon, where I built the frontend. Now being rebuilt properly.&nbsp;&nbsp;·&nbsp;&nbsp;not deployed, source private</sub>
 
 <br>
 
